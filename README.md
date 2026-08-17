@@ -28,11 +28,11 @@ An unofficial, fan-made standalone **Pack Studio Desktop Application** for [*The
 
 ---
 
-## 🚀 Quickstart for Users
+## 🚀 Quickstart for Users (No Python Required)
 
-### Option 1: Download Standalone .exe (No Python Required)
-1. Download the latest **`Choicer Voicer Pack Studio.exe`** from [GitHub Releases](https://github.com/).
-2. Run the executable and start creating packs!
+1. Download **`Choicer-Voicer-Pack-Studio-Windows-v1.0.0.zip`** from [GitHub Releases](https://github.com/JxstNex0/Choicer-Voicer-Pack-Studio/releases/tag/v1.0.0).
+2. Extract the ZIP archive anywhere on your PC.
+3. Double-click **`Choicer Voicer Pack Studio.exe`** to start creating packs!
 
 ---
 
