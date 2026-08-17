@@ -1,0 +1,28 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Temporary media & user caches
+.cv_pack_temp/
+*.wav.temp_input.wav
+wave_temp.wav
+cleaned_backing.wav
+
+# IDEs
+.vscode/
+.idea/
+*.swp
